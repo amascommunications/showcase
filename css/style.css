@@ -5030,6 +5030,7 @@ footer .widget_list li a {
     font-weight: 700;
 	margin: 0;
 	line-height: 1.4em;
+    padding-top:5px;
 }
 .schedule-item .sc-name span {
 	font-weight: normal;
