@@ -5021,14 +5021,15 @@ footer .widget_list li a {
 	font-weight: normal;
 	font-size: 14px;
 	width: 160px;
-	padding-top: 15px;
+	padding-top: 10px;
     padding-bottom: 10px;
+    line-height: 1.2em;
 }
 .schedule-item .sc-name h4 {
 	font-size: 14px;
     font-weight: 700;
 	margin: 0;
-	line-height: 1.6em;
+	line-height: 1.4em;
 }
 .schedule-item .sc-name span {
 	font-weight: normal;
