@@ -5039,6 +5039,7 @@ footer .widget_list li a {
 	float: none;
 	display: inline-block;
 	width: 60%;
+    padding-left:10px;
 }
 .schedule-item .sc-info h3 {
 	font-size:18px !important;
